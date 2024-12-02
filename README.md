@@ -51,7 +51,9 @@ The project is licensed under the MIT License. The code can be used, modified an
 # Reference and Resources
 
 PySide6: https://pyside.org/
-파이코: https://pypi.org/project/pycaw/
+
+Pycaw: https://pypi.org/project/pycaw/
+
 Comtypes: https://pypi.org/project/comtypes/
 
 # FAQ
