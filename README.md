@@ -31,7 +31,7 @@ Pipe Installation Finestaller
 
 Create an executable. Navigate to the directory that contains the script and run the following command:
 
-Pi installer -- original file -- no console main.py
+Pyinstaller -- no console main.py
 
 --One file: Packages the program into one executable file.
 --No console: Hides the console window when running the application.
